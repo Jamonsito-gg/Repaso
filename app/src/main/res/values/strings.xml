@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RepasoPrueba</string>
+    <string name="Bievenida">Cafe</string>
+    <string name="btnActivity">Nueva Actividad</string>
+    <string name="btnVolver">Volver</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnMostrar">Mostrar</string>
+    <string name="ingreseNombre">Ingrese nombre del cafe</string>
+    <string name="FI_titulo">Formulario de ingreso</string>
+    <string name="tst_fi">Ingrese Cafe</string>
+    <string name="tst_fl">Lista de cafes</string>
+    <string name="tst_main">Listado de cafes</string>
+</resources>
